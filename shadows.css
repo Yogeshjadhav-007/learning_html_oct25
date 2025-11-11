@@ -1,0 +1,54 @@
+.t_ratio{
+    width: 400px;
+    height: 400px;
+}
+.b_shadow{
+    color: red;
+    box-shadow: 7px 8px 6px red;
+}
+.d_shadow{
+    filter: drop-shadow(7px 7px 6px blue);
+    
+}
+.d_ratio{
+    height: 400px;
+    width: 400px;
+}
+.g_shadow{
+    filter: drop-shadow(8px 8px 7px orange);
+}
+.b_drop{
+    border: 10px inset blueviolet;
+    width: 400px;
+    height: 400px;
+    filter: drop-shadow(5px 5px 5px red);
+}
+.ganesh{
+    border: 12px double orange;
+}
+.b_rad{
+    border-radius: 50%;
+}
+.b_star{
+    border-radius: 50px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border: 15px inset blue;
+}
+.b_lion{
+    border: 13px double black;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    width: 400px;
+    height: 400px;
+}
+.b_ganesh{
+    border: 8px double purple;
+    border-radius: 50%;
+    border-top-color: aqua;
+    border-right-color: blue;
+    border-left-color: black;
+    border-bottom-color:
+}
