@@ -1,0 +1,25 @@
+.flex-items{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    color: black;
+    font-size: 50px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.i_gallery{
+    margin: 20px;
+    background-color: red;
+}
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: aqua;
+}
