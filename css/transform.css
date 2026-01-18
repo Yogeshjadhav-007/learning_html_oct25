@@ -32,7 +32,7 @@
     transform: skew(40deg);
 }
 .item6:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 .item7:hover{
     transform: scale(1.4) rotate(200deg) translate(125px);
